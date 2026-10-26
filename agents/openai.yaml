@@ -1,0 +1,7 @@
+interface:
+  display_name: "talk like human"
+  short_description: "把生硬的中文报告和解释改成自然、连贯、保留事实的表达"
+  default_prompt: "使用 $talk-like-human，把下面的内容改写成自然、连贯、容易读懂的中文，同时保留事实、数字和不确定性。"
+
+policy:
+  allow_implicit_invocation: true
